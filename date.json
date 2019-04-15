@@ -1,0 +1,87 @@
+[	
+	{
+		"date": "14.03",
+		"hours": 6,
+		"orders": 5
+	},
+	{
+		"date": "15.03",
+		"hours": 6,
+		"orders": 1
+	},
+	{
+		"date": "18.03",
+		"hours": 6,
+		"orders": 0
+	},
+	{
+		"date": "19.03",
+		"hours": 13,
+		"orders": 9
+	},
+	{
+		"date": "21.03",
+		"hours": 13,
+		"orders": 6
+	},
+	{
+		"date": "22.03",
+		"hours": 13,
+		"orders": 3
+	},
+	{
+		"date": "24.03",
+		"hours": 13,
+		"orders": 7
+	},
+	{
+		"date": "25.03",
+		"hours": 8,
+		"orders": 2
+	},
+	{
+		"date": "26.03",
+		"hours": 13,
+		"orders": 10
+	},
+	{
+		"date": "28.03",
+		"hours": 13,
+		"orders": 4
+	},
+	{
+		"date": "29.03",
+		"hours": 13,
+		"orders": 4
+	},
+	{
+		"date": "31.03",
+		"hours": 13,
+		"orders": 8
+	},
+	{
+		"date": "02.04",
+		"hours": 13,
+		"orders": 0
+	},
+	{
+		"date": "04.04",
+		"hours": 13,
+		"orders": 2
+	},
+	{
+		"date": "05.04",
+		"hours": 13,
+		"orders": 3
+	},
+	{
+		"date": "07.04",
+		"hours": 13,
+		"orders": 6
+	},
+	{
+		"date": "09.04",
+		"hours": 13,
+		"orders": 8
+	}
+]
